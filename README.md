@@ -3,7 +3,7 @@
 
 - 🏢 Working at [Evolve Tecnologia](https://evolvecap.com.br/)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <!-- Linguagens -->
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

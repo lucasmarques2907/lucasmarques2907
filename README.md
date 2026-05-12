@@ -33,18 +33,6 @@
 <!-- Outros -->
 ![Firebase (azul)](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasmarques2907&theme=react&hide_border=true&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lucasmarques2907&theme=react&hide_border=true" width="440" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarques2907&theme=react&hide_border=true&layout=compact" />
-</p>
-
-
 
 
 
